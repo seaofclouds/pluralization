@@ -18,3 +18,5 @@ a **hinge** of folding bicyclists
 a **queue** of commuters
 
 a **vibe** of unicorns
+
+a **feather** of pillows
